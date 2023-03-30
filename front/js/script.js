@@ -12,6 +12,8 @@ const formula_w0 = document.querySelector('[id="formula_w0"]')
 const formula_a0 = document.querySelector('[id="formula_a0"]')
 const formula_slider = document.querySelector('[id="formula_slider"]')
 
+
+
 let sin_formulas
 
 btn.addEventListener("click", function () {
